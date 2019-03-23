@@ -1,7 +1,8 @@
-# TurtlePay™ Blockchain Cache API
-
+![image](https://cdn.qwertycoin.org/images/press/other/qwc-github-3.png)
 #### Master Build Status
-[![Build Status](https://travis-ci.org/TurtlePay/blockchain-cache-api.svg?branch=master)](https://travis-ci.org/TurtlePay/blockchain-cache-api) [![Build status](https://ci.appveyor.com/api/projects/status/github/TurtlePay/blockchain-cache-api?branch=master&svg=true)](https://ci.appveyor.com/project/brandonlehmann/blockchain-cache-api/branch/master)
+[![Build Status](https://travis-ci.org/qwertycoin-org/blockchain-cache-api.svg?branch=master)](https://travis-ci.org/qwertycoin-org/blockchain-cache-api) [![Build status](https://ci.appveyor.com/api/projects/status/github/qwertycoin/blockchain-cache-api?branch=master&svg=true)](https://ci.appveyor.com/project/qwertycoin/blockchain-cache-api/branch/master)
+
+# TurtlePay™ Blockchain Cache API
 
 ## Prerequisites
 
@@ -66,5 +67,31 @@ pm2 save
 ## API
 
 See https://docs.turtlepay.io/blockapi/ for the full REST API provided by this package.
+
+
+## Donate
+
+```
+QWC: QWC1K6XEhCC1WsZzT9RRVpc1MLXXdHVKt2BUGSrsmkkXAvqh52sVnNc1pYmoF2TEXsAvZnyPaZu8MW3S8EWHNfAh7X2xa63P7Y
+```
+```
+BTC: 1DkocMNiqFkbjhCmG4sg9zYQbi4YuguFWw
+```
+```
+ETH: 0xA660Fb28C06542258bd740973c17F2632dff2517
+```
+```
+BCH: qz975ndvcechzywtz59xpkt2hhdzkzt3vvt8762yk9
+```
+```
+XMR: 47gmN4GMQ17Veur5YEpru7eCQc5A65DaWUThZa9z9bP6jNMYXPKAyjDcAW4RzNYbRChEwnKu1H3qt9FPW9CnpwZgNscKawX
+```
+```
+ETN: etnkJXJFqiH9FCt6Gq2HWHPeY92YFsmvKX7qaysvnV11M796Xmovo2nSu6EUCMnniqRqAhKX9AQp31GbG3M2DiVM3qRDSQ5Vwq
+```
+
+#### Thanks
+
+Cryptonote Developers, Bytecoin Developers, Monero Developers, Karbo Developers, Qwertycoin Community
 
 ###### (c) 2018 TurtlePay™ Development Team
